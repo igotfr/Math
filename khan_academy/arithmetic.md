@@ -95,6 +95,8 @@
 
 > 💡 Divisão de frações: teste da unidade
 
+&nbsp;
+
 📖 Multiplique e divida números decimais
 > § Estratégias de multiplicação de números decimais
 * ❓ Represente a multiplicação de números decimais com malhas quadriculadas e modelos de área
