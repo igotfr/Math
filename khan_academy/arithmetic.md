@@ -60,6 +60,7 @@
 > § Problemas de adição e subtração de frações com denominadores diferentes
 * ▶️ Problema de soma de frações: tinta
 
+# Rever exercícios até aqui
 &nbsp;
 
 📖 Divisão de frações
@@ -69,11 +70,33 @@
 
 > § Como dividir frações unitárias por números inteiros
 * ▶️ Divida visualmente frações unitárias por um número inteiro
+* ❓ Divisão visual de frações unitárias por números naturais
 * ▶️ Divida uma fração unitária por um número natural
 
 > § Divisão de números inteiros por frações
 * ▶️ Divisão visual de números inteiros por frações unitárias
+* ❓ Divisão visual de números naturais por frações unitárias
 * ▶️ Divisão de um número natural por uma fração unitária
 
 > § Problemas de divisão de frações e números naturais
 * ❓ Problemas de divisão de frações e números naturais
+
+> 💡 Divisão de frações: 1 teste
+
+> § Divisão de frações por frações
+* ▶️ Entendendo a divisão de frações
+* ▶️ Divisão de fração por número inteiro
+* ▶️ Como dividir um número inteiro por uma fração
+* ❓ Divida números inteiros por frações
+* ▶️ Divisão de frações: 2/5 ÷ 7/3
+* ▶️ Divisão de frações: 3/5 ÷ 1/2
+
+> 💡 Divisão de frações: 2 teste
+
+> 💡 Divisão de frações: teste da unidade
+
+📖 Multiplique e divida números decimais
+> § Estratégias de multiplicação de números decimais
+* ❓ Represente a multiplicação de números decimais com malhas quadriculadas e modelos de área
+
+> 💡 Multiplique e divida números decimais: 2 teste
